@@ -2594,8 +2594,8 @@ input, select, textarea {
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
 		/*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
-		background: rgb(60,6,0);
-		background: linear-gradient(150deg, rgba(60,6,0,1) 0%, rgba(128,0,55,1) 35%, rgba(147,29,14,1) 100%), url("images/overlay.png");
+		background:  rgb(124,35,35);
+		background: linear-gradient(190deg, rgba(124,35,35,1) 0%, rgba(255,168,168,1) 100%), url("images/overlay.png");
 		
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
